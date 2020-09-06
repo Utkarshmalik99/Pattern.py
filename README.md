@@ -1,3 +1,3 @@
-# Pattern.py
+# Pattern
 
 Python Pattern Programs combined in one repository
