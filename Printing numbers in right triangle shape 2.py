@@ -4,7 +4,7 @@ for i in range(1,n):
     print(i,end=' ')
   print("\r")
  
-#Output-6
+#Output - 6
 1 
 2 2 
 3 3 3 
