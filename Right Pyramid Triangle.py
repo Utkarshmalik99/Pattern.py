@@ -4,8 +4,7 @@ for i in range(0,n):
       print("*",end=" ")
    print("\r")
  
-#Output- 
-5
+#Output- 5
 * 
 * * 
 * * * 
